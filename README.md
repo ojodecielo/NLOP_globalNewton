@@ -1,5 +1,5 @@
 # NLOP_globalNewton
-Nonlinear optimization: Globalized Newton &amp; steepest descent
+Nonlinear optimization: Globalized Newton &amp; steepest descent \n
 This repository contains Matlab code for calculating the minimum for the Rosenbrock function
 f(x,y) = 100*(y-x^2)^2+(1-x)^2
 Two algorithms are implemented:
